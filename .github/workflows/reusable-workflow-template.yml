@@ -14,4 +14,4 @@ jobs:
 
   call_demo_workflow_job:
     needs: call_greet_everyone_workflow_job
-    uses: githubabcs/gh-abcs-actions/.github/workflows/github-actions-demo.yml@main
+    uses: ./.github/workflows/github-actions-demo.yml
