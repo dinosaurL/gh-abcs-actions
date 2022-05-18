@@ -2,7 +2,8 @@
 
 In this lab you will update and run your first workflow, Simon.
 
-> Duration: 5-10 minutes
+Duration: 5-10 minutes
+
 
 References:
 
